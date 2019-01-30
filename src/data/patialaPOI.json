@@ -1,0 +1,415 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "formatted_address" : "Quila Androon, Chandni Chowk, Adalat Bazar, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.3242661,
+                "lng" : 76.4032605
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.32561592989273,
+                   "lng" : 76.40461032989272
+                },
+                "southwest" : {
+                   "lat" : 30.32291627010729,
+                   "lng" : 76.40191067010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "9ac0b4cdc96f4eefaf5ce52b7569891d8923ecc7",
+          "name" : "Qila Mubarak",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106415824791486244882/photos\"\u003eNeelam Garg\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA2v3cWAXK3zRIelabdwDJ1xKxWIcmqepx2noMHkGpEL_Psto-eYMfkXCyLUOQc5USMU_x93hx6iP9-ClU4AQ5Rq2n59OyPLhGPTaf1c2fGByXIw9reOxKfG9PpS9b_YocEhB64yO5nQrEtXyMgGC69eA5GhTXycXcDMQ5MLY5sKl2vid8rNVCnA",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJfbguD_woEDkRrtNaWqgbywc",
+          "plus_code" : {
+             "compound_code" : "8CF3+P8 Patiala, Punjab, India",
+             "global_code" : "8J2R8CF3+P8"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJfbguD_woEDkRrtNaWqgbywc",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Old Moti Bagh, Moti Bagh, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.307709,
+                "lng" : 76.3944752
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.30905882989272,
+                   "lng" : 76.39582502989272
+                },
+                "southwest" : {
+                   "lat" : 30.30635917010727,
+                   "lng" : 76.39312537010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7e6e28d7e0cc56f3c0da52c98ae46f240340f6e2",
+          "name" : "Moti Bagh Palace",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1836,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105312642719434431881/photos\"\u003ebomberi manga\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAApVH1j3KKrRQGyYNTnPe6ADIlLhTp4UgGQb-fPVvZDXy2ANOH2a8bHONw32qq3zLblW1i-QqcPhz7cuRlTqTz0tQblJAr-udEx2wfzmtMNfH8w-dCVvWwDfQdC8Rwe1JgEhCEVGajHaXzoD5tC8eymV-5GhQ3ZvYfgOyTa7qAGDcqhRSiE0neTA",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJSQ7ddxopEDkRB-fqYER9gj0",
+          "plus_code" : {
+             "compound_code" : "895V+3Q Patiala, Punjab, India",
+             "global_code" : "8J2R895V+3Q"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJSQ7ddxopEDkRB-fqYER9gj0",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Pathak Vihar Colony, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.3127534,
+                "lng" : 76.40313279999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.31410322989273,
+                   "lng" : 76.40448262989271
+                },
+                "southwest" : {
+                   "lat" : 30.31140357010728,
+                   "lng" : 76.40178297010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "0e2cf028c5564f6469c28a65b052d76523ac67d0",
+          "name" : "Sheesh Mahal Enclave",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106572579930469901861/photos\"\u003eMANMEET SINGH GILL\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAm3p7vqlXU95GmHUkAjlWCeOVIOG_YHHODl6GyOspnF1bDFFJZCJ5h-oOQGYvtT69NTG09o1a9ISxzhdc1Tcr0Olyny8NwCX763iW0hHT1QNgU4tRVlvv6nfROno0G8JGEhB_5SXT4-_pQxKK8BVwqHR9GhTlzECFla8tbhgyn31S0QaqMYyoEg",
+                "width" : 4208
+             }
+          ],
+          "place_id" : "ChIJk_DGDgQpEDkRO22jlF0AtVc",
+          "plus_code" : {
+             "compound_code" : "8C73+47 Patiala, Punjab, India",
+             "global_code" : "8J2R8C73+47"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJk_DGDgQpEDkRO22jlF0AtVc",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "NH 64, Patiala - Rajpura Rd, Bahadurgarh, Patiala, Punjab 147021, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.36431409999999,
+                "lng" : 76.47221429999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.36566392989272,
+                   "lng" : 76.47356412989272
+                },
+                "southwest" : {
+                   "lat" : 30.36296427010728,
+                   "lng" : 76.47086447010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "65989e4a69b59f6f6c900d2894ffc058cd9982da",
+          "name" : "Bahadurgarh Fort",
+          "opening_hours" : {},
+          "photos" : [
+             {
+                "height" : 2304,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117373837426040379333/photos\"\u003eIshavjot Singh\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAeLw3p6h4qnjiHhwB-nZecNIW420lbqps30HZEtRkd_eyMvRYJ-wJ30-wug8R6XdVgNx9S3rHFqa4jrmKTPrcJi22JESJVo14RpGTYG3t2Kjby60hiQLjb0CNrWv7jZZ7EhBY-PNiDojRK2HdJNRKUhJ1GhQE_ncXneXt7juvaSa697C57iskhw",
+                "width" : 4096
+             }
+          ],
+          "place_id" : "ChIJoT8XIPHXDzkRS2Dk2dT1bzY",
+          "plus_code" : {
+             "compound_code" : "9F7C+PV Patiala, Punjab, India",
+             "global_code" : "8J2R9F7C+PV"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJoT8XIPHXDzkRS2Dk2dT1bzY",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Baradari, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.3350409,
+                "lng" : 76.3922477
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.33639072989273,
+                   "lng" : 76.39359752989272
+                },
+                "southwest" : {
+                   "lat" : 30.33369107010729,
+                   "lng" : 76.39089787010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "7b7a79235645ba30a6a850acf32eb3de57c8b660",
+          "name" : "Barandari Garden",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108877621189203226960/photos\"\u003eManish Verma\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA5QVEUdeIlT0gB_xjy7-9Jb-VvRJ4lQzDX-QqKrFS6WX-r1HjP7BXvDhQkujIRhN88hQpHHYEi2FSsKE7cnOx7tu9TCCrIsRncbxOyp_a4kL2rK_ehHiEbSBPvLdydtg3EhBMpF_2XOw0o55Rk-aDvFhMGhQ_8rwxhVlhcDj9XUtx-mVa4QL_EA",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ-Z8rMeooEDkRb5dXDvykTfM",
+          "plus_code" : {
+             "compound_code" : "89PR+2V Patiala, Punjab, India",
+             "global_code" : "8J2R89PR+2V"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJ-Z8rMeooEDkRb5dXDvykTfM",
+          "types" : [ "park", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "11 Stadium Road, Near Govt. College for Girls, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.3397809,
+                "lng" : 76.3868798
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.34113072989272,
+                   "lng" : 76.38822962989272
+                },
+                "southwest" : {
+                   "lat" : 30.33843107010728,
+                   "lng" : 76.38552997010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "eb3c6817ae3a96deba56e4c42dd4aeddd87b422b",
+          "name" : "Legends And Palaces",
+          "place_id" : "ChIJraqqquooEDkR0jQ2dieh1XQ",
+          "rating" : 4.1,
+          "reference" : "ChIJraqqquooEDkR0jQ2dieh1XQ",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Shahi Samadhan, Adalat Bazar, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.320812,
+                "lng" : 76.40257819999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.32216182989272,
+                   "lng" : 76.40392802989271
+                },
+                "southwest" : {
+                   "lat" : 30.31946217010728,
+                   "lng" : 76.40122837010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "088db016d921f72ccd2e5785f7ff925d987d0b3f",
+          "name" : "Patiala Heritage Walk",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116116110564422959827/photos\"\u003eHarinder Singh\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAguwTq3lG36wNwy9oRxJ0C9_pDR-_wXd10oJuIm_cjsTgkBRVwmZcwy4gHCS5muPfbJtOitaadgh5PqkhBY_6gmEuv9NIJN1hbTictihscI-oHJKZEWz3d6baZCdj990VEhBMLXTvR-d6IHKbe9yOoja0GhRY8XF1tToR8elYSrpnaOBTyE3l6g",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJv40gLfwoEDkRD1ISc80Yas8",
+          "plus_code" : {
+             "compound_code" : "8CC3+82 Patiala, Punjab, India",
+             "global_code" : "8J2R8CC3+82"
+          },
+          "rating" : 3.9,
+          "reference" : "ChIJv40gLfwoEDkRD1ISc80Yas8",
+          "types" : [ "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Patiala, Punjab 147101, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.2957418,
+                "lng" : 76.3952367
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.29709162989271,
+                   "lng" : 76.39658652989272
+                },
+                "southwest" : {
+                   "lat" : 30.29439197010727,
+                   "lng" : 76.39388687010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "c9505c54fb289e463f94b22d6c0e8bd3c5616ab3",
+          "name" : "Deer Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112735801059789298952/photos\"\u003eManish Saini\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAS0FVzMJlNr7sD-bNeMyZjIpQh3YGeg8fhTPagXxo8tuhNJg_jVH3gWWNVEOiFWsDP0wUwpWA3K-QfFDQZalYi-oxPoebc-saSLnYWI4mzSHgJEAF2UyUgqYNn4Om1Y1zEhBJKfnedbmfIO4HqhuvrabWGhQp5-ijO-JaZVUfcNPL5tebbrMrNw",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJncWATm0pEDkRUcuNx-FsPOg",
+          "plus_code" : {
+             "compound_code" : "79WW+73 Patiala, Punjab, India",
+             "global_code" : "8J2R79WW+73"
+          },
+          "rating" : 3.9,
+          "reference" : "ChIJncWATm0pEDkRUcuNx-FsPOg",
+          "types" : [ "zoo", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Namdar Khan Rd, Sheran Wala Gate, Patiala, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.3388522,
+                "lng" : 76.3986951
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.34028862989272,
+                   "lng" : 76.40016962989272
+                },
+                "southwest" : {
+                   "lat" : 30.33758897010728,
+                   "lng" : 76.39746997010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7f39ebaf07b866f114db3c0c41b8bd8c71b362df",
+          "name" : "Punjab Puralekh Department , Patiala",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107626826968585637491/photos\"\u003eamiticu\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAl2xvkoPN05FLtcn5fLty3obKvCN787n7RBQ3DyyxgGrgSj22dHazwfHEC8EbwDjv-ZrBDOWwyD0KzZoERkCUOIbjfo-M-CyqecFPMvV9sMB4EeAcH_a6oNxxzh30WooGEhC94qBSf0saem4-XMDWhxOWGhQa86uSpOgb4nVWOkSVJlr1REwm8Q",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJvUw6g_IoEDkR55z7v7gB8Gk",
+          "plus_code" : {
+             "compound_code" : "89QX+GF Patiala, Punjab, India",
+             "global_code" : "8J2R89QX+GF"
+          },
+          "rating" : 4,
+          "reference" : "ChIJvUw6g_IoEDkR55z7v7gB8Gk",
+          "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Sular, Punjab 147001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.2954981,
+                "lng" : 76.39516870000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.29684792989272,
+                   "lng" : 76.39651852989273
+                },
+                "southwest" : {
+                   "lat" : 30.29414827010728,
+                   "lng" : 76.39381887010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "50d355051065227590c774bcf75f530e412ff5c1",
+          "name" : "Patiala Zoo",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113773870384230026357/photos\"\u003eKaramjeeT RandhawA\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAYka-lS9LlBtGS04xfgwpJBapAM3ihTvrPuBlJIrv6q33es9JBEKrWRdZxxCcQiLOKrdvjcqdGWH1nUyj_3oz1bSIG-cWKTrGFNHaNgrloB3cOT6kjj7lrtZj1ZMaEx59EhBJ0YAiKQJbo_BmtmLRMK2DGhQtjYEMy-DecJ2WNM2UBSJnFA_ZLg",
+                "width" : 4000
+             }
+          ],
+          "place_id" : "ChIJ8ZuYLBMpEDkRxHBuYpK-TuU",
+          "plus_code" : {
+             "compound_code" : "79WW+53 Patiala, Punjab, India",
+             "global_code" : "8J2R79WW+53"
+          },
+          "rating" : 3.6,
+          "reference" : "ChIJ8ZuYLBMpEDkRxHBuYpK-TuU",
+          "types" : [ "zoo", "point_of_interest", "establishment" ]
+       }
+    ],
+    "status" : "OK"
+ }

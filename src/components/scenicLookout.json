@@ -1,0 +1,1722 @@
+//scenic lookout
+categoryId = 4bf58dd8d48988d165941735
+
+
+https://api.foursquare.com/v2/venues/search?client_id=VCMNMY5JM4UBE4T0M5ZIRO1XYLX5GFFKZWTTRNKS0B2S0ZCS&client_secret=CYCXQVKMN5PBHRHWFSY2KFGX0WYVOMBYRV0RRX2IENYWF5PL&v=20180323&categoryId=4bf58dd8d48988d165941735&ll=30.0831,76.0611&radius=50000
+
+  //chandigarh
+
+  https: //api.foursquare.com/v2/venues/search?client_id=VCMNMY5JM4UBE4T0M5ZIRO1XYLX5GFFKZWTTRNKS0B2S0ZCS&client_secret=CYCXQVKMN5PBHRHWFSY2KFGX0WYVOMBYRV0RRX2IENYWF5PL&v=20180323&categoryId=4bf58dd8d48988d165941735&ll=30.7333,76.7794&radius=20000
+
+  {
+    "meta": {
+      "code": 200,
+      "requestId": "5bf8e211f594df3221be10c9"
+    },
+    "response": {
+      "venues": [{
+          "id": "4e171c5ec65be9c55e8b6c76",
+          "name": "22 No. Phatak",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.325338948173,
+            "lng": 76.375448705075,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.325338948173,
+              "lng": 76.375448705075
+            }],
+            "distance": 40518,
+            "cc": "IN",
+            "city": "Pati\u0101la",
+            "state": "Punjab",
+            "country": "India",
+            "formattedAddress": [
+              "Pati\u0101la",
+              "Punjab",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "5bf296b3a87921003916d8ab",
+          "name": "Bhakra Canal",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 29.712388,
+            "lng": 75.925907,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 29.712388,
+              "lng": 75.925907
+            }],
+            "distance": 43280,
+            "postalCode": "125120",
+            "cc": "IN",
+            "city": "Toh\u0101na",
+            "state": "Hary\u0101na",
+            "country": "India",
+            "formattedAddress": [
+              "Toh\u0101na 125120",
+              "Hary\u0101na",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "56aa371be4b08b9a8d573562",
+            "name": "Canal",
+            "pluralName": "Canals",
+            "shortName": "Canal",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/river_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4d971995577cba7a35928779",
+          "name": "Brahma Sarovar",
+          "contact": {
+
+          },
+          "location": {
+            "address": "Thanesar",
+            "lat": 29.961590020165,
+            "lng": 76.827392578125,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 29.961590020165,
+              "lng": 76.827392578125
+            }],
+            "distance": 75085,
+            "cc": "IN",
+            "city": "Th\u0101nesar",
+            "state": "Hary\u0101na",
+            "country": "India",
+            "formattedAddress": [
+              "Thanesar",
+              "Th\u0101nesar",
+              "Hary\u0101na",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d161941735",
+            "name": "Lake",
+            "pluralName": "Lakes",
+            "shortName": "Lake",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/lake_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4c0bcb2ea1b32d7f317d9bf0",
+          "name": "Gillco Valley",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.741946900508,
+            "lng": 76.655459202147,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.741946900508,
+              "lng": 76.655459202147
+            }],
+            "distance": 92923,
+            "cc": "IN",
+            "city": "Mohali",
+            "state": "Punjab",
+            "country": "India",
+            "formattedAddress": [
+              "Mohali",
+              "Punjab",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4d31b56ef8c9224b868ea9d2",
+          "name": "Gehri Route",
+          "contact": {
+
+          },
+          "location": {
+            "address": "Sector 8,sector 9,sector 10,sector 11",
+            "lat": 30.722750877319,
+            "lng": 76.744397517499,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.722750877319,
+              "lng": 76.744397517499
+            }],
+            "distance": 96819,
+            "cc": "IN",
+            "city": "Chandigarh",
+            "state": "Chandigarh",
+            "country": "India",
+            "formattedAddress": [
+              "Sector 8,sector 9,sector 10,sector 11",
+              "Chandigarh",
+              "Chandigarh",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4fce4072e4b0f3e4b84a6ebc",
+          "name": "In Your Heart",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.683711,
+            "lng": 76.85114,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.683711,
+              "lng": 76.85114
+            }],
+            "distance": 101123,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "50f56cdde4b08910086a4665",
+          "name": "Ground Zero",
+          "contact": {
+
+          },
+          "location": {
+            "address": "Pa",
+            "lat": 30.688183643478,
+            "lng": 76.847808002862,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.688183643478,
+              "lng": 76.847808002862
+            }],
+            "distance": 101213,
+            "cc": "IN",
+            "city": "Panchkula",
+            "state": "Hary\u0101na",
+            "country": "India",
+            "formattedAddress": [
+              "Pa",
+              "Panchkula",
+              "Hary\u0101na",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4f00143177c885c335f5e7ab",
+          "name": "Siswan Dam",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.841597571278,
+            "lng": 76.721434605075,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.841597571278,
+              "lng": 76.721434605075
+            }],
+            "distance": 105563,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4bbdc067f57ba593545faeb9",
+          "name": "Chandigarh | Mohali | \u0a1a\u0a70\u0a21\u0a40\u0a17\u0a5c\u0a4d\u0a39",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.712486375366,
+            "lng": 76.773030451312,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.712486375366,
+              "lng": 76.773030451312
+            }],
+            "distance": 97884,
+            "postalCode": "160017",
+            "cc": "IN",
+            "state": "Chandigarh",
+            "country": "India",
+            "formattedAddress": [
+              "160017",
+              "Chandigarh",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "50aa9e094b90af0d42d5de0d",
+            "name": "City",
+            "pluralName": "Cities",
+            "shortName": "City",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "55d99cbd498e45a2066291dd",
+          "name": "Op het dak",
+          "contact": {
+
+          },
+          "location": {
+            "address": "3B1",
+            "lat": 30.713501,
+            "lng": 76.725694,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.713501,
+              "lng": 76.725694
+            }],
+            "distance": 94849,
+            "cc": "IN",
+            "city": "Mohali",
+            "state": "Punjab",
+            "country": "India",
+            "formattedAddress": [
+              "3B1",
+              "Mohali",
+              "Punjab",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4f191e50e4b091882829c271",
+          "name": "Citco",
+          "contact": {
+
+          },
+          "location": {
+            "crossStreet": "Chandigarh",
+            "lat": 30.750086073804,
+            "lng": 76.787628978361,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.750086073804,
+              "lng": 76.787628978361
+            }],
+            "distance": 101867,
+            "cc": "IN",
+            "city": "Chandigarg",
+            "country": "India",
+            "formattedAddress": [
+              "Chandigarh",
+              "Chandigarg",
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4f5b49a9e4b0a61f4aeef894",
+          "name": "In hell",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.731314102905,
+            "lng": 76.758988113965,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.731314102905,
+              "lng": 76.758988113965
+            }],
+            "distance": 98468,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4f5c84d3e4b026f4c64b03c1",
+          "name": "Fun City 1",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.637977319657,
+            "lng": 76.892275740178,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.637977319657,
+              "lng": 76.892275740178
+            }],
+            "distance": 100941,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "570e20cc498e36b160c14b69",
+          "name": "CGC Rooftop Beach",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.685472,
+            "lng": 76.66532,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.685472,
+              "lng": 76.66532
+            }],
+            "distance": 88673,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "5221a54111d2be1420da9703",
+          "name": "Jindal tower",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 29.156106370569,
+            "lng": 75.720643800858,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 29.156106370569,
+              "lng": 75.720643800858
+            }],
+            "distance": 108323,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "512ee754e4b05cfe391278e2",
+          "name": "Kajauli",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 30.787107467651,
+            "lng": 76.44303894043,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 30.787107467651,
+              "lng": 76.44303894043
+            }],
+            "distance": 86519,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        },
+        {
+          "id": "4f8c328de4b05ae88b638504",
+          "name": "Mandi Adampur",
+          "contact": {
+
+          },
+          "location": {
+            "lat": 29.287706866244,
+            "lng": 75.56580177074,
+            "labeledLatLngs": [{
+              "label": "display",
+              "lat": 29.287706866244,
+              "lng": 75.56580177074
+            }],
+            "distance": 100668,
+            "cc": "IN",
+            "country": "India",
+            "formattedAddress": [
+              "India"
+            ]
+          },
+          "categories": [{
+            "id": "4bf58dd8d48988d165941735",
+            "name": "Scenic Lookout",
+            "pluralName": "Scenic Lookouts",
+            "shortName": "Scenic Lookout",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }],
+          "verified": false,
+          "stats": {
+            "tipCount": 0,
+            "usersCount": 0,
+            "checkinsCount": 0,
+            "visitsCount": 0
+          },
+          "beenHere": {
+            "count": 0,
+            "lastCheckinExpiredAt": 0,
+            "marked": false,
+            "unconfirmedCount": 0
+          },
+          "hereNow": {
+            "count": 0,
+            "summary": "Nobody here",
+            "groups": [
+
+            ]
+          },
+          "referralId": "v-1543037457",
+          "venueChains": [
+
+          ],
+          "hasPerk": false
+        }
+      ],
+      "confident": false
+    }
+  }
+
+
+
+//chandigarh data
+
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5bf8e3f84c1f67675f6765ae"
+  },
+  "response": {
+    "venues": [{
+      "id": "4f5b49a9e4b0a61f4aeef894",
+      "name": "In hell",
+      "contact": {},
+      "location": {
+        "lat": 30.731314102905156,
+        "lng": 76.75898811396459,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.731314102905156,
+          "lng": 76.75898811396459
+        }],
+        "distance": 1965,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4c79f51f566db60c66e0460e",
+      "name": "Parwanoo",
+      "contact": {},
+      "location": {
+        "lat": 30.84151426916452,
+        "lng": 76.95213373141077,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.84151426916452,
+          "lng": 76.95213373141077
+        }],
+        "distance": 20444,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "530e33ccbcbc57f1066bbff3",
+        "name": "Town",
+        "pluralName": "Towns",
+        "shortName": "Town",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4f191e50e4b091882829c271",
+      "name": "Citco",
+      "contact": {},
+      "location": {
+        "crossStreet": "Chandigarh",
+        "lat": 30.750086073804198,
+        "lng": 76.78762897836145,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.750086073804198,
+          "lng": 76.78762897836145
+        }],
+        "distance": 2027,
+        "cc": "IN",
+        "city": "Chandigarg",
+        "country": "India",
+        "formattedAddress": ["Chandigarh", "Chandigarg", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4ce23609825e721eb7e27f45",
+      "name": "Yadvindra Gardens",
+      "contact": {},
+      "location": {
+        "address": "Pinjore",
+        "crossStreet": "NH22",
+        "lat": 30.793439704040495,
+        "lng": 76.9134229710868,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.793439704040495,
+          "lng": 76.9134229710868
+        }],
+        "distance": 14462,
+        "cc": "IN",
+        "city": "Panchkula",
+        "state": "Haryāna",
+        "country": "India",
+        "formattedAddress": ["Pinjore (NH22)", "Panchkula", "Haryāna", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d15a941735",
+        "name": "Garden",
+        "pluralName": "Gardens",
+        "shortName": "Garden",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/garden_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4bbdc067f57ba593545faeb9",
+      "name": "Chandigarh | Mohali | ਚੰਡੀਗੜ੍ਹ",
+      "contact": {},
+      "location": {
+        "lat": 30.712486375365984,
+        "lng": 76.77303045131153,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.712486375365984,
+          "lng": 76.77303045131153
+        }],
+        "distance": 2395,
+        "postalCode": "160017",
+        "cc": "IN",
+        "state": "Chandigarh",
+        "country": "India",
+        "formattedAddress": ["160017", "Chandigarh", "India"]
+      },
+      "categories": [{
+        "id": "50aa9e094b90af0d42d5de0d",
+        "name": "City",
+        "pluralName": "Cities",
+        "shortName": "City",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4d31b56ef8c9224b868ea9d2",
+      "name": "Gehri Route",
+      "contact": {},
+      "location": {
+        "address": "Sector 8,sector 9,sector 10,sector 11",
+        "lat": 30.722750877318795,
+        "lng": 76.74439751749948,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.722750877318795,
+          "lng": 76.74439751749948
+        }],
+        "distance": 3549,
+        "cc": "IN",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "country": "India",
+        "formattedAddress": ["Sector 8,sector 9,sector 10,sector 11", "Chandigarh", "Chandigarh", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4f00143177c885c335f5e7ab",
+      "name": "Siswan Dam",
+      "contact": {},
+      "location": {
+        "lat": 30.84159757127829,
+        "lng": 76.7214346050753,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.84159757127829,
+          "lng": 76.7214346050753
+        }],
+        "distance": 13268,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4c0bcb2ea1b32d7f317d9bf0",
+      "name": "Gillco Valley",
+      "contact": {},
+      "location": {
+        "lat": 30.74194690050814,
+        "lng": 76.65545920214666,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.74194690050814,
+          "lng": 76.65545920214666
+        }],
+        "distance": 11897,
+        "cc": "IN",
+        "city": "Mohali",
+        "state": "Punjab",
+        "country": "India",
+        "formattedAddress": ["Mohali", "Punjab", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4fce4072e4b0f3e4b84a6ebc",
+      "name": "In Your Heart",
+      "contact": {},
+      "location": {
+        "lat": 30.683711,
+        "lng": 76.85114,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.683711,
+          "lng": 76.85114
+        }],
+        "distance": 8810,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "4f5c84d3e4b026f4c64b03c1",
+      "name": "Fun City 1",
+      "contact": {},
+      "location": {
+        "lat": 30.63797731965715,
+        "lng": 76.89227574017781,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.63797731965715,
+          "lng": 76.89227574017781
+        }],
+        "distance": 15144,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "570e20cc498e36b160c14b69",
+      "name": "CGC Rooftop Beach",
+      "contact": {},
+      "location": {
+        "lat": 30.685472,
+        "lng": 76.66532,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.685472,
+          "lng": 76.66532
+        }],
+        "distance": 12147,
+        "cc": "IN",
+        "country": "India",
+        "formattedAddress": ["India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "50f56cdde4b08910086a4665",
+      "name": "Ground Zero",
+      "contact": {},
+      "location": {
+        "address": "Pa",
+        "lat": 30.688183643478027,
+        "lng": 76.84780800286191,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.688183643478027,
+          "lng": 76.84780800286191
+        }],
+        "distance": 8251,
+        "cc": "IN",
+        "city": "Panchkula",
+        "state": "Haryāna",
+        "country": "India",
+        "formattedAddress": ["Pa", "Panchkula", "Haryāna", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }, {
+      "id": "55d99cbd498e45a2066291dd",
+      "name": "Op het dak",
+      "contact": {},
+      "location": {
+        "address": "3B1",
+        "lat": 30.713501,
+        "lng": 76.725694,
+        "labeledLatLngs": [{
+          "label": "display",
+          "lat": 30.713501,
+          "lng": 76.725694
+        }],
+        "distance": 5592,
+        "cc": "IN",
+        "city": "Mohali",
+        "state": "Punjab",
+        "country": "India",
+        "formattedAddress": ["3B1", "Mohali", "Punjab", "India"]
+      },
+      "categories": [{
+        "id": "4bf58dd8d48988d165941735",
+        "name": "Scenic Lookout",
+        "pluralName": "Scenic Lookouts",
+        "shortName": "Scenic Lookout",
+        "icon": {
+          "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/sceniclookout_",
+          "suffix": ".png"
+        },
+        "primary": true
+      }],
+      "verified": false,
+      "stats": {
+        "tipCount": 0,
+        "usersCount": 0,
+        "checkinsCount": 0,
+        "visitsCount": 0
+      },
+      "beenHere": {
+        "count": 0,
+        "lastCheckinExpiredAt": 0,
+        "marked": false,
+        "unconfirmedCount": 0
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "referralId": "v-1543037944",
+      "venueChains": [],
+      "hasPerk": false
+    }],
+    "confident": false
+  }
+}
