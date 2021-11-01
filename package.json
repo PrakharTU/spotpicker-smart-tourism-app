@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "babel-core": "6.0.0",
     "firebase": "^5.5.8",
     "prop-types": "^15.6.0",
